@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detrav.Blazor.Maui", "Detrav.Blazor.Maui\Detrav.Blazor.Maui.csproj", "{1ACB80FE-9015-4BBF-9CB4-A3027D71D95F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detrav.Blazor.Shared", "Detrav.Blazor.Shared\Detrav.Blazor.Shared.csproj", "{C6A4580C-08A0-4ABE-B601-473D6933978F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detrav.Blazor.Web", "Detrav.Blazor.Web\Detrav.Blazor.Web.csproj", "{1A1AD79D-18A5-4403-B638-85FC8C593ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detrav.Blazor.Wasm", "Detrav.Blazor.Wasm\Detrav.Blazor.Wasm.csproj", "{8AB8DCBC-172D-435B-B658-934F7AE278AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detrav.Blazor.Photino", "Detrav.Blazor.Photino\Detrav.Blazor.Photino.csproj", "{508E73D8-51B1-420A-07CF-5F315F26BFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ACB80FE-9015-4BBF-9CB4-A3027D71D95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACB80FE-9015-4BBF-9CB4-A3027D71D95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACB80FE-9015-4BBF-9CB4-A3027D71D95F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1ACB80FE-9015-4BBF-9CB4-A3027D71D95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACB80FE-9015-4BBF-9CB4-A3027D71D95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A4580C-08A0-4ABE-B601-473D6933978F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A4580C-08A0-4ABE-B601-473D6933978F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A4580C-08A0-4ABE-B601-473D6933978F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A4580C-08A0-4ABE-B601-473D6933978F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1AD79D-18A5-4403-B638-85FC8C593ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1AD79D-18A5-4403-B638-85FC8C593ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1AD79D-18A5-4403-B638-85FC8C593ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1AD79D-18A5-4403-B638-85FC8C593ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB8DCBC-172D-435B-B658-934F7AE278AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB8DCBC-172D-435B-B658-934F7AE278AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB8DCBC-172D-435B-B658-934F7AE278AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB8DCBC-172D-435B-B658-934F7AE278AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508E73D8-51B1-420A-07CF-5F315F26BFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508E73D8-51B1-420A-07CF-5F315F26BFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508E73D8-51B1-420A-07CF-5F315F26BFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508E73D8-51B1-420A-07CF-5F315F26BFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ADA8D7B-7D27-4D6A-9675-1BF822D5E263}
+	EndGlobalSection
+EndGlobal
